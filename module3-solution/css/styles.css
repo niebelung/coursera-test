@@ -51,6 +51,7 @@
 
   #collapsable-nav  {
     color:beige;
+    clear:both;
   }
   #nav-list {
     margin-top: 0px;
